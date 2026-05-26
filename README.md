@@ -22,12 +22,15 @@ I build AI-first products, developer tools, and full-stack web experiences with 
 - Comfortable across product thinking, backend systems, and frontend delivery
 - Always exploring ways to make software feel faster, smarter, and more useful
 
-## Tech Focus
+## Tech Stack
 
-- AI Systems: Agents, MCP, automation, and voice interfaces
-- Backend: Python, APIs, system design, and integrations
-- Frontend: Next.js, React, TypeScript, and UI polish
-- Developer Tools: Extensions, workflows, and context-aware tooling
+- Python
+- TypeScript
+- React
+- Next.js
+- APIs and system design
+- MCP and automation
+- Developer tooling
 
 ## Current Direction
 
