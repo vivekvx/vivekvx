@@ -22,17 +22,6 @@ I build AI-first products, developer tools, and full-stack web experiences with 
 - Comfortable across product thinking, backend systems, and frontend delivery
 - Always exploring ways to make software feel faster, smarter, and more useful
 
-## What I Build
-
-### Featured Projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [Cortex](https://github.com/vivekvx/Cortex) | Runtime security and observability layer for autonomous AI agents | Python, Next.js, SQLite |
-| [FlowRestore](https://github.com/vivekvx/Flowrestore) | VS Code extension for capturing developer context signals and workflow restoration | TypeScript, VS Code API |
-| [F.R.I.D.A.Y.](https://github.com/vivekvx/Friday.ai) | Tony Stark-inspired voice assistant built with an MCP server and real-time voice pipeline | Python, FastMCP, LiveKit |
-| [Vivek Portfolio](https://github.com/vivekvx/Vivek-portfolio) | Personal portfolio built with a premium single-page Next.js experience | TypeScript, Next.js |
-
 ## Tech Focus
 
 ```text
