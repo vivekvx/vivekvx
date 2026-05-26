@@ -24,34 +24,16 @@ I build AI-first products, developer tools, and full-stack web experiences with 
 
 ## Tech Focus
 
-```text
-AI Systems      -> Agents, MCP, automation, voice interfaces
-Backend         -> Python, APIs, system design, integrations
-Frontend        -> Next.js, React, TypeScript, UI polish
-Developer Tools -> Extensions, workflows, context-aware tooling
-```
+- AI Systems: Agents, MCP, automation, and voice interfaces
+- Backend: Python, APIs, system design, and integrations
+- Frontend: Next.js, React, TypeScript, and UI polish
+- Developer Tools: Extensions, workflows, and context-aware tooling
 
 ## Current Direction
 
 - Building AI products that solve real workflow problems
 - Designing systems where intelligence, security, and usability work together
 - Shipping projects that blend research ideas with production-minded execution
-
-## GitHub Snapshot
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vivekvx&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
-    alt="GitHub stats for Vivek Sahu"
-  />
-</p>
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvx&layout=compact&hide_border=true"
-    alt="Top languages used by Vivek Sahu"
-  />
-</p>
 
 ## Connect
 
