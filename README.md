@@ -17,32 +17,38 @@
 
 I build AI-first products, developer tools, and full-stack web experiences with a strong focus on practical systems, clean execution, and polished user experience.
 
-- Working on applied AI products and intelligent developer workflows
-- Interested in agents, MCP tooling, automation, and secure AI systems
-- Comfortable across product thinking, backend systems, and frontend delivery
-- Always exploring ways to make software feel faster, smarter, and more useful
+<ul>
+  <li><strong>Working on</strong> applied AI products and intelligent developer workflows</li>
+  <li><strong>Interested in</strong> agents, MCP tooling, automation, and secure AI systems</li>
+  <li><strong>Comfortable across</strong> product thinking, backend systems, and frontend delivery</li>
+  <li><strong>Focused on</strong> making software feel faster, smarter, and more useful</li>
+</ul>
 
 ## Tech Stack
 
-- Python
-- TypeScript
-- React
-- Next.js
-- APIs and system design
-- MCP and automation
-- Developer tooling
+<ul>
+  <li><strong>Languages:</strong> Python and TypeScript</li>
+  <li><strong>Frontend:</strong> React and Next.js</li>
+  <li><strong>Backend:</strong> APIs and system design</li>
+  <li><strong>AI:</strong> MCP and automation</li>
+  <li><strong>Tooling:</strong> Developer workflows and tooling</li>
+</ul>
 
 ## Current Direction
 
-- Building AI products that solve real workflow problems
-- Designing systems where intelligence, security, and usability work together
-- Shipping projects that blend research ideas with production-minded execution
+<ul>
+  <li>Building AI products that solve real workflow problems</li>
+  <li>Designing systems where intelligence, security, and usability work together</li>
+  <li>Shipping projects that blend research ideas with production-minded execution</li>
+</ul>
 
 ## Connect
 
-- Portfolio: [viveksahu.vercel.app](https://viveksahu.vercel.app/)
-- GitHub: [github.com/vivekvx](https://github.com/vivekvx)
-- X / Twitter: [@Vivekvkvq](https://x.com/Vivekvkvq)
+<ul>
+  <li><strong>Portfolio:</strong> <a href="https://viveksahu.vercel.app/">viveksahu.vercel.app</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/vivekvx">github.com/vivekvx</a></li>
+  <li><strong>X / Twitter:</strong> <a href="https://x.com/Vivekvkvq">@Vivekvkvq</a></li>
+</ul>
 
 ---
 
