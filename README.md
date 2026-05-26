@@ -32,18 +32,59 @@ I build AI-first products, developer tools, and full-stack web experiences with 
 
 ## Tech Stack
 
+### Core Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+---
+
+### Frontend & Product
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/VS_Code_Extensions-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Extensions" />
 </p>
+
+---
+
+### AI & Automation
 <p>
-  <img src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/System_Design-455A64?style=for-the-badge" alt="System Design" />
   <img src="https://img.shields.io/badge/MCP-4B0082?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/FastMCP-111111?style=for-the-badge" alt="FastMCP" />
   <img src="https://img.shields.io/badge/Automation-0A66C2?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/AI_Agents-6F42C1?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/LiveKit-FF4F64?style=for-the-badge" alt="LiveKit" />
+</p>
+
+---
+
+### Backend & Systems
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/System_Design-455A64?style=for-the-badge" alt="System Design" />
+  <img src="https://img.shields.io/badge/Observability-374151?style=for-the-badge" alt="Observability" />
+</p>
+
+---
+
+### Tools & Workflow
+<p>
   <img src="https://img.shields.io/badge/Developer_Tooling-2F855A?style=for-the-badge" alt="Developer Tooling" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" alt="Cursor" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ## Current Direction
