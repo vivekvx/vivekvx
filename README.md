@@ -26,13 +26,19 @@ I build AI-first products, developer tools, and full-stack web experiences with 
 
 ## Tech Stack
 
-<ul>
-  <li><strong>Languages:</strong> Python and TypeScript</li>
-  <li><strong>Frontend:</strong> React and Next.js</li>
-  <li><strong>Backend:</strong> APIs and system design</li>
-  <li><strong>AI:</strong> MCP and automation</li>
-  <li><strong>Tooling:</strong> Developer workflows and tooling</li>
-</ul>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/System_Design-455A64?style=for-the-badge" alt="System Design" />
+  <img src="https://img.shields.io/badge/MCP-4B0082?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/Automation-0A66C2?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/Developer_Tooling-2F855A?style=for-the-badge" alt="Developer Tooling" />
+</p>
 
 ## Current Direction
 
