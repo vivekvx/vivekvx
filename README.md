@@ -1,16 +1,77 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner.gif" alt="Vivek Sahu banner" width="100%" />
+</p>
 
-<!--
-**vivekvx/vivekvx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Vivek Sahu</h1>
+<p align="center">
+  AI Developer at Trivana Capital • AI Lead at GDG SSIPMT
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/vivekvx">GitHub</a> •
+  <a href="https://viveksahu.vercel.app/">Portfolio</a> •
+  <a href="https://x.com/Vivekvkvq">X / Twitter</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I build AI-first products, developer tools, and full-stack web experiences with a strong focus on practical systems, clean execution, and polished user experience.
+
+- Working on applied AI products and intelligent developer workflows
+- Interested in agents, MCP tooling, automation, and secure AI systems
+- Comfortable across product thinking, backend systems, and frontend delivery
+- Always exploring ways to make software feel faster, smarter, and more useful
+
+## What I Build
+
+### Featured Projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Cortex](https://github.com/vivekvx/Cortex) | Runtime security and observability layer for autonomous AI agents | Python, Next.js, SQLite |
+| [FlowRestore](https://github.com/vivekvx/Flowrestore) | VS Code extension for capturing developer context signals and workflow restoration | TypeScript, VS Code API |
+| [F.R.I.D.A.Y.](https://github.com/vivekvx/Friday.ai) | Tony Stark-inspired voice assistant built with an MCP server and real-time voice pipeline | Python, FastMCP, LiveKit |
+| [Vivek Portfolio](https://github.com/vivekvx/Vivek-portfolio) | Personal portfolio built with a premium single-page Next.js experience | TypeScript, Next.js |
+
+## Tech Focus
+
+```text
+AI Systems      -> Agents, MCP, automation, voice interfaces
+Backend         -> Python, APIs, system design, integrations
+Frontend        -> Next.js, React, TypeScript, UI polish
+Developer Tools -> Extensions, workflows, context-aware tooling
+```
+
+## Current Direction
+
+- Building AI products that solve real workflow problems
+- Designing systems where intelligence, security, and usability work together
+- Shipping projects that blend research ideas with production-minded execution
+
+## GitHub Snapshot
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vivekvx&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="GitHub stats for Vivek Sahu"
+  />
+</p>
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvx&layout=compact&hide_border=true"
+    alt="Top languages used by Vivek Sahu"
+  />
+</p>
+
+## Connect
+
+- Portfolio: [viveksahu.vercel.app](https://viveksahu.vercel.app/)
+- GitHub: [github.com/vivekvx](https://github.com/vivekvx)
+- X / Twitter: [@Vivekvkvq](https://x.com/Vivekvkvq)
+
+---
+
+<p align="center">
+  <i>Building useful AI, thoughtful products, and developer experiences that feel sharp.</i>
+</p>
